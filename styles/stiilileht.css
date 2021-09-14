@@ -58,3 +58,27 @@ img{
     border-radius: 50%;
 }
 
+.skill-row{
+    text-align: center;
+}
+
+.skill-row img{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 15%;
+    /*
+    float: left;
+    margin-right: 2rem;
+    */
+}
+.hobbies img{
+    align-content: center;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 15%;
+
+}
+
+h2{
+    margin-bottom: 30px;
+}
